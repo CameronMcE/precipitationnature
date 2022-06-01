@@ -1,5 +1,7 @@
 # precipitationnature
-Data used in the journal manuscript 'When it rains, it pours: An unexplored relationship between wet day frequency and precipitation intensity distributions'
+The script 'WetDayPlotting.py' used to plot Figure 1 has been included, which can be adapted to plot Figure 3 and many of the Extended Data Digures. 
+
+Data used in the journal manuscript 'When it rains, it pours: An unexplored relationship between wet day frequency and precipitation intensity distributions' is supplied as follows:
 
 Figure 1: Subplot (a) was created using the .nc file '1980_2019_total_precipitation_masked' contaning the wet day frequency of ERA5 total precipitation as a function of latuitude and longitude. Subplot (b) was created using the .npy file 'total_precipitation_distribution' which contains the cumlative precipitation intensity distrubutions for each wet day frequency.
 
