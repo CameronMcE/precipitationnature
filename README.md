@@ -17,7 +17,7 @@ Extended Data Figure 4: Subplot (a) was created using the .npy file 'total_preci
 
 Extended Data Figure 5:
 
-Extended Data Figure 6:
+Extended Data Figure 6: Subplot (b) was created using the .npy file 'GHCN_Percentile_Data' and subplot (c) was created using the .npy file 'GHCN_Resampled_ERA5'
 
 Extended Data Figure 7: Created using the .npy file 'coefficient_of_determination'
 
