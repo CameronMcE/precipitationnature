@@ -22,7 +22,7 @@ Extended Data Figure 4: Subplot (a) was created using the .npy file 'total_preci
 
 Extended Data Figure 5: Subplot (a) was created using the .npy file 'total_precipitation_distribution_ocean' and subplot (b) was created using the .npy file 'total_precipitation_distribution_land'
 
-Extended Data Figure 6: Subplot (b) was created using the .npy file 'GHCN_Percentile_Data' and subplot (c) was created using the .npy file 'GHCN_Resampled_ERA5'
+Extended Data Figure 6: Subplot (b) was created using the .nc file 'MSWEP_wet_day_frequency' and subplot (c) was created using the .nc file 'MSWEP_wet_day_intensity_distribution'
 
 Extended Data Figure 7: Created using the .npy file 'coefficient_of_determination'
 
