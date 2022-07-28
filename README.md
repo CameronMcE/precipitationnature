@@ -22,9 +22,9 @@ Extended Data Figure 3: Subplot (a) was created using the .nc file '1980_2019_to
 
 Extended Data Figure 4: Subplot (a) was created using the .npy file 'total_precipitation_distribution_ocean' and subplot (b) was created using the .npy file 'total_precipitation_distribution_land'
 
-Extended Data Figure 5: Subplot (a) was created using the .npy file 'total_precipitation_distribution_ocean' and subplot (b) was created using the .npy file 'total_precipitation_distribution_land'
+Extended Data Figure 5: Subplot (b) was created using the .npy file 'GHCN_Percentile_Data' and subplot (c) was created using the .npy file 'GHCN_Resampled_ERA5'
 
-Extended Data Figure 6: Subplot (b) was created using the .nc file 'MSWEP_wet_day_frequency' and subplot (c) was created using the .nc file 'MSWEP_wet_day_intensity_distribution'
+Extended Data Figure 6: Subplots a,c,e,g were created using the .nc files ending in 'wet_day_frequency' and subplots b,d,f,h were created using the .nc files  ending in 'wet_day_intensity_distribution', for the MSWEP, CMORPH, IMERG and MERRA2 datasets
 
 Extended Data Figure 7: Created using the .npy file 'coefficient_of_determination'
 
